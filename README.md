@@ -11,5 +11,11 @@ cargo run
 cargo run --release
 ./target/release/Lab2
 
-# Visulización de GIf
-![lab2s](https://github.com/user-attachments/assets/c848f3cf-be02-4e2e-91f1-88550e2d9dab)
+### Ejecutar el juego forma C
+
+`cargo build --release`
+
+
+`./target/release/Lab2`
+
+# Visulización de GIf (ACTUALIZADO)
